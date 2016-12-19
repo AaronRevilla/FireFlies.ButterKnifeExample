@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         ButterKnife.bind(this);
 
         textView.setText("Aaron Revilla");
-        editText.setText("Butter Knikfe example");
+        editText.setText("Butter Knife example");
 
     }
 
